@@ -2,11 +2,11 @@ export TARGET_ARCH="arm64-v8a"
 
 # Some about us
 export FOX_MAINTAINER_PATCH_VERSION=1
-export OF_MAINTAINER="archcloudy"
+export OF_MAINTAINER="AlcInt"
 
 # Build environment stuffs
 export FOX_BUILD_DEVICE="plato"
-export FOX_VARIANT="HyperOS"
+export FOX_VARIANT="AOSP"
 export FOX_BUILD_TYPE="Unofficial"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
